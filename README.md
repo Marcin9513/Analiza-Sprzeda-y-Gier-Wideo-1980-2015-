@@ -8,7 +8,7 @@ Zrozumienie trendów w sprzedaży gier oraz zaprezentowanie wyników w sposób p
 
 ---
 
-## 🖥️ Sekcja 1: Sprzedaż według Regionów, Platform i Gatunków
+## Sekcja 1: Sprzedaż według Regionów, Platform i Gatunków
 ### 🔧 Co zrobiłem:
 - Stworzyłem **tabelę przestawną**, która pokazuje dane o sprzedaży w różnych regionach (np. Ameryka Północna, Europa), na różnych platformach (np. PlayStation 2, Xbox 360) oraz w podziale na gatunki gier (np. Akcja, RPG).
 - Wykorzystałem **formatowanie warunkowe**, aby wyróżnić najważniejsze wartości (np. najwyższą sprzedaż w każdym regionie).
@@ -23,7 +23,7 @@ Zrozumienie trendów w sprzedaży gier oraz zaprezentowanie wyników w sposób p
 
 ---
 
-## 🏆 Sekcja 2: TOP 10 Najlepiej Sprzedających się Gier (2004–2015)
+## Sekcja 2: TOP 10 Najlepiej Sprzedających się Gier (2004–2015)
 ### 🔧 Co zrobiłem:
 - Stworzyłem **dynamiczną tabelę**, która automatycznie pokazuje 10 najlepiej sprzedających się gier w wybranym roku.
 - Dodałem **listę rozwijaną**, która pozwala wybrać dowolny rok, a dane w tabeli i wykresie aktualizują się automatycznie.
@@ -36,7 +36,7 @@ Zrozumienie trendów w sprzedaży gier oraz zaprezentowanie wyników w sposób p
 
 ---
 
-## 🎮 Sekcja 3: TOP 3 Wydawców Gier według Regionów
+## Sekcja 3: TOP 3 Wydawców Gier według Regionów
 ### 🔧 Co zrobiłem:
 - Przygotowałem **tabelę przestawną**, która pokazuje sprzedaż gier trzech największych wydawców (np. Nintendo, EA) w różnych regionach.
 - Stworzyłem **dynamiczny wykres**, który automatycznie dostosowuje się do wybranego regionu sprzedaży.
