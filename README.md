@@ -1,0 +1,1 @@
+# Analiza-Sprzeda-y-Gier-Wideo-1980-2015-
