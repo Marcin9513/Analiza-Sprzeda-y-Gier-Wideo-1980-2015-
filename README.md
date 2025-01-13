@@ -1,1 +1,1 @@
-# Analiza-Sprzeda-y-Gier-Wideo-1980-2015-
+# Analiza-Sprzedaży-Gier-Wideo-1980-2015
